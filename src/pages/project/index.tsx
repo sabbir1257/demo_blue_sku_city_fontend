@@ -38,25 +38,24 @@ const Project: React.FC = () => {
       <VideoShowSection />
       <Living />
       <Gallery title="Project Gallery" members={images} />
-     <div className="w-[1250px] mx-auto p-4">
-  <Image
-    className="w-full rounded-lg shadow-lg"
-    src="/images/blue_sky_city_layout_img.jpg"
-    alt="Blue Sky City Layout Plan"
-    width={1250}
-    height={700}
-    priority
-  />
-  <div className="mt-6 flex justify-center">
-    <a
-      href="/files/layout-plan.pdf"  // put your actual file path here
-      download
-      className="inline-block px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-full shadow-md transition-colors duration-300"
-    >
-      Download Layout Plan
-    </a>
-  </div>
-</div>
+      <div className="w-[1250px] mx-auto p-4">
+        <Image
+          className="w-full rounded-lg shadow-lg"
+          src="/images/blue_sky_city_layout_img.jpg"
+          alt="Blue Sky City Layout Plan"
+          width={1250}
+          height={700}
+          priority />
+        <div className="mt-6 flex justify-center">
+          <a
+            href="/images/blue_sky_city_layout_img.jpg"
+            download
+            className="inline-block px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-full shadow-md transition-colors duration-300"
+          >
+            Download Layout Plan
+          </a>
+        </div>
+      </div>
 
       <WhyChooseUs />
       <TermsAndConditions />
