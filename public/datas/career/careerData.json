@@ -1,0 +1,28 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "title": "Frontend Developer",
+            "location": "Dhaka, Bangladesh",
+            "description": "We are looking for a skilled React/Next.js developer with strong UI/UX sense.",
+            "imageUrl": "/images/about.jpg",
+            "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYourFormID/viewform"
+        },
+        {
+            "id": 2,
+            "title": "Marketing Manager",
+            "location": "Sylhet, Bangladesh",
+            "description": "Lead and manage marketing campaigns and brand strategy for national products.",
+            "imageUrl": "/images/about.jpg",
+            "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYourFormID/viewform"
+        },
+        {
+            "id": 3,
+            "title": "Graphic Designer",
+            "location": "Remote",
+            "description": "Creative graphic designer needed with strong Adobe Photoshop/Illustrator skills.",
+            "imageUrl": "/images/about.jpg",
+            "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYourFormID/viewform"
+        }
+    ]
+}
