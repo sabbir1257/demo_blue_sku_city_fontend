@@ -78,6 +78,18 @@ export const navLinks: TNavLinks[] = [
         name: 'Blue Sky Dream Society',
         path: '/blyeSkyDreamSociety',
       },
+      {
+        name: "Blue Sky Dream Agro",
+        path: 'blueSkyDreamAgro',
+      },
+      {
+        name: "Blue Sky Dream Tours & Travels",
+        path: 'blueSkyDreamToursTravels',
+      },
+      {
+        name: "Blue Sky Dream Hajj & Umrah",
+        path: 'blueSkyDreamHajjUmrah',
+      },
     ],
   },
   {
